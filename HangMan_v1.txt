@@ -1,0 +1,1 @@
+./Debug/src_Frames.cpp.o ./Debug/main.cpp.o ./Debug/src_Library_PartialWord.cpp.o ./Debug/src_Library_WordContainer.cpp.o   
